@@ -1,0 +1,19 @@
+{
+  "name": "ultra-node",
+  "version": "0.0.1",
+  "description": "Ultra router for Node.js server-side rendering",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": "gt3/ultra-node",
+  "author": "Ankit Patel <gt3.someday@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "ultra-router": "*"
+  },
+  "files": [
+    "index.js"
+  ]
+}
